@@ -1,0 +1,49 @@
+C:\Users\hieuh\Desktop\Dothi\Dothi\bin\Debug\Dothi.exe.config
+C:\Users\hieuh\Desktop\Dothi\Dothi\bin\Debug\Dothi.exe
+C:\Users\hieuh\Desktop\Dothi\Dothi\bin\Debug\Dothi.pdb
+C:\Users\hieuh\Desktop\Dothi\Dothi\obj\Debug\Dothi.csprojResolveAssemblyReference.cache
+C:\Users\hieuh\Desktop\Dothi\Dothi\obj\Debug\Dothi.Form1.resources
+C:\Users\hieuh\Desktop\Dothi\Dothi\obj\Debug\Dothi.Properties.Resources.resources
+C:\Users\hieuh\Desktop\Dothi\Dothi\obj\Debug\Dothi.csproj.GenerateResource.Cache
+C:\Users\hieuh\Desktop\Dothi\Dothi\obj\Debug\Dothi.exe
+C:\Users\hieuh\Desktop\Dothi\Dothi\obj\Debug\Dothi.pdb
+D:\Lý thuyết đồ thị\Dothi\Dothi\bin\Debug\Dothi.exe.config
+D:\Lý thuyết đồ thị\Dothi\Dothi\obj\Debug\Dothi.exe
+D:\Lý thuyết đồ thị\Dothi\Dothi\bin\Debug\Dothi.exe
+D:\Lý thuyết đồ thị\Dothi\Dothi\bin\Debug\Dothi.pdb
+D:\Lý thuyết đồ thị\Dothi\Dothi\obj\Debug\Dothi.csprojResolveAssemblyReference.cache
+D:\Lý thuyết đồ thị\Dothi\Dothi\obj\Debug\Dothi.Form1.resources
+D:\Lý thuyết đồ thị\Dothi\Dothi\obj\Debug\Dothi.Properties.Resources.resources
+D:\Lý thuyết đồ thị\Dothi\Dothi\obj\Debug\Dothi.csproj.GenerateResource.Cache
+D:\Lý thuyết đồ thị\Dothi\Dothi\obj\Debug\Dothi.pdb
+D:\C#\Ly thuyet do thi\Dothi\Dothi\bin\Debug\Dothi.exe.config
+D:\C#\Ly thuyet do thi\Dothi\Dothi\obj\Debug\Dothi.exe
+D:\C#\Ly thuyet do thi\Dothi\Dothi\obj\Debug\Dothi.pdb
+D:\C#\Ly thuyet do thi\Dothi\Dothi\bin\Debug\Dothi.exe
+D:\C#\Ly thuyet do thi\Dothi\Dothi\bin\Debug\Dothi.pdb
+D:\C#\Ly thuyet do thi\Dothi\Dothi\obj\Debug\Dothi.csprojResolveAssemblyReference.cache
+D:\C#\Ly thuyet do thi\Dothi\Dothi\obj\Debug\Dothi.Form1.resources
+D:\C#\Ly thuyet do thi\Dothi\Dothi\obj\Debug\Dothi.Properties.Resources.resources
+D:\C#\Ly thuyet do thi\Dothi\Dothi\obj\Debug\Dothi.csproj.GenerateResource.Cache
+Z:\Dothi\Dothi\bin\Debug\Dothi.exe.config
+Z:\Dothi\Dothi\obj\Debug\Dothi.exe
+Z:\Dothi\Dothi\obj\Debug\Dothi.pdb
+Z:\Dothi\Dothi\bin\Debug\Dothi.exe
+Z:\Dothi\Dothi\bin\Debug\Dothi.pdb
+Z:\Dothi\Dothi\obj\Debug\Dothi.csprojResolveAssemblyReference.cache
+Z:\Dothi\Dothi\obj\Debug\Dothi.Form1.resources
+Z:\Dothi\Dothi\obj\Debug\Dothi.Properties.Resources.resources
+Z:\Dothi\Dothi\obj\Debug\Dothi.csproj.GenerateResource.Cache
+D:\Lý thuyết đồ thị\Dothi\Dothi\obj\Debug\Dothi.FormNhapTrongSo.resources
+D:\Lý thuyết đồ thị\Dothi\Dothi\obj\Debug\Dothi.FormNhapTenDinh.resources
+D:\Ly Thuyet Do Thi\Dothi\Dothi\bin\Debug\Dothi.exe.config
+D:\Ly Thuyet Do Thi\Dothi\Dothi\obj\Debug\Dothi.exe
+D:\Ly Thuyet Do Thi\Dothi\Dothi\obj\Debug\Dothi.pdb
+D:\Ly Thuyet Do Thi\Dothi\Dothi\bin\Debug\Dothi.exe
+D:\Ly Thuyet Do Thi\Dothi\Dothi\bin\Debug\Dothi.pdb
+D:\Ly Thuyet Do Thi\Dothi\Dothi\obj\Debug\Dothi.csprojResolveAssemblyReference.cache
+D:\Ly Thuyet Do Thi\Dothi\Dothi\obj\Debug\Dothi.Form1.resources
+D:\Ly Thuyet Do Thi\Dothi\Dothi\obj\Debug\Dothi.FormNhapTenDinh.resources
+D:\Ly Thuyet Do Thi\Dothi\Dothi\obj\Debug\Dothi.FormNhapTrongSo.resources
+D:\Ly Thuyet Do Thi\Dothi\Dothi\obj\Debug\Dothi.Properties.Resources.resources
+D:\Ly Thuyet Do Thi\Dothi\Dothi\obj\Debug\Dothi.csproj.GenerateResource.Cache
